@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   last_value = "10000"
 
-  name_each.each do |key, value}
+  name_hash.each do |key, value}
 
       if value < last_value
 
